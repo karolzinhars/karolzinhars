@@ -9,7 +9,7 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-         𝒦𝖆𝖗𝖔𝖑𝖎𝖓𝖊 𝕽𝖔𝖉𝖗𝖎𝖌𝖚𝖊𝖘 
+        𝒦𝔞𝔯𝔬𝔩𝔦𝔫𝔢 ℜ𝔬𝔡𝔯𝔦𝔤𝔲𝔢𝔰
     
 </p>                                                                                                                            
                                                                                                   
@@ -19,13 +19,18 @@
 
     
     │▸ she/her - brazilian - (pt/br + english)
-    │                                              
+    │   ┗ ▸ software engineer, backend & Cyber Security                                               
     │▸ learning
-        ┗ ▸ software engineer, backend & Cyber Security
         ┗ ▸  python
-          ▸  java
+          ▸  python for data analysis
           ▸  introduction to cybersecurity
-          ▸  english / espanhol
+          ▸  english
+
+
+
+
+
+
 
 
 
