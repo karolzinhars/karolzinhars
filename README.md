@@ -19,7 +19,7 @@
 
     
     │▸ she/her - brazilian - (pt/br + english)
-    │   ┗ ▸ software engineer, backend & cyber security                                               
+    │   ┗ ▸ software engineer, backend & cybersecurity                                               
     │▸ learning
         ┗ ▸  python
           ▸  java
