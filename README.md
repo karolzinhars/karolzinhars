@@ -22,8 +22,8 @@
     │   ┗ ▸ software engineer, backend & Cyber Security                                               
     │▸ learning
         ┗ ▸  python
-          ▸  python for data analysis
-          ▸  introduction to cybersecurity
+          ▸  java
+          ▸  introduction to cybersecurity, backend, frontend and sofware enginner
           ▸  english
 
 
