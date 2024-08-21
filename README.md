@@ -23,7 +23,7 @@
     │▸ learning
         ┗ ▸  python
           ▸  java
-          ▸  introduction to cybersecurity, backend, frontend and sofware enginner
+          ▸  introduction to cybersecurity, backend, frontend
           ▸  english / espanhol
 
 
