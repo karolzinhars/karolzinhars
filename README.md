@@ -19,12 +19,12 @@
 
     
     │▸ she/her - brazilian - (pt/br + english)
-    │   ┗ ▸ software engineer, backend & Cyber Security                                               
+    │   ┗ ▸ software engineer, backend, frontend & Cyber Security                                               
     │▸ learning
         ┗ ▸  python
           ▸  java
           ▸  introduction to cybersecurity, backend, frontend and sofware enginner
-          ▸  english
+          ▸  english / espanhol
 
 
 
